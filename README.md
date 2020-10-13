@@ -1,4 +1,6 @@
 # MetaCoin
+- MetaCoin.sol: トークンの練習用
+- MattsuPriceConsumersol: Chainlinkの練習用
 
 ## Setup
 1. .envの作成 & 編集
